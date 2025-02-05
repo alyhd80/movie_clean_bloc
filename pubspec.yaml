@@ -13,8 +13,13 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_bloc: ^9.0.0
+  flutter_bloc:
   cupertino_icons: ^1.0.8
+  reactive_button:
+  dartz:
+  dio:
+  logger:
+  get_it:
 
 dev_dependencies:
   flutter_test:
